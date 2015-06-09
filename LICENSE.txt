@@ -1,9 +1,9 @@
 License
 /***
- * Java Modbus Scanner
- * Copyright (c) 2009, Andrzej Sokulski 
- * andrzej@modbus.pl - www.modbus.pl
- * All rights reserved.
+* Java Modbus Scanner
+* Copyright (c) 2015, Vegard Fladby
+* vegard@fladby.org - www.fladby.org
+* All rights reserved.
  * 
  * 
  *  This software is free you can redistribute it and/or
@@ -19,8 +19,7 @@ License
  *  indirect, incidential, special, exemplary, or consequential damages. 
 
  *  Redistributions of source code should retain the above copyright notice,
- *  If you want to remove the copyright notice, please donate me (www.modbus.pl/donate.html).
- *!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ *  If you want to remove the copyright notice, please donate me 
  *
  * The program uses the RXTX binaries.
  * RXTX is a native interface to serial ports in java.
